@@ -49,7 +49,7 @@ An interactive Excel-based dashboard analyzing greenhouse gas (GHG) emissions da
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/Carbon & Currency.png)
+![Dashboard_Preview](Images/Carbon & Currency.png)
 
 ---
 
