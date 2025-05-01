@@ -49,7 +49,7 @@ An interactive Excel-based dashboard analyzing greenhouse gas (GHG) emissions da
 
 ## 📸 Dashboard Preview
 
-![Dashboard_Preview](Images/Carbon & Currency.png)
+![Dashboard_Preview](https://github.com/AbhinavKumar2124/GHG-Emissions-Dashboard/blob/main/Images/Carbon%20%26%20Currency.png)
 
 ---
 
@@ -58,7 +58,7 @@ An interactive Excel-based dashboard analyzing greenhouse gas (GHG) emissions da
 **Abhinav**  
 INT217 – Lovely Professional University  
 Project: Carbon & Currency Dashboard  
-Guide: [Faculty Name]
+Guide: Mrs. Baljinder Kaur
 
 ---
 
